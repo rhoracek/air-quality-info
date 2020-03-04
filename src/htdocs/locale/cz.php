@@ -1,13 +1,13 @@
 <?php
 /*$jsLocale = array();
-$jsLocale['days'] = '';
-$jsLocale['Are you sure to delete this resource?'] = '';
-$jsLocale['Days'] = '';
+$jsLocale['dny'] = '';
+$jsLocale['Chtete skutečně vymazat tento zdroj?'] = '';
+$jsLocale['Dny'] = '';
 $jsLocale['Detector humidity'] = '';
 $jsLocale['Detector temperature'] = '';
-$jsLocale['High'] = '';
-$jsLocale['Humidity'] = '';
-$jsLocale['Low'] = '';
+$jsLocale['Vysoký'] = '';
+$jsLocale['Vlhkost'] = '';
+$jsLocale['Nízký'] = '';
 $jsLocale['Medium'] = '';
 $jsLocale['Night view'] = '';
 $jsLocale['PM₁₀ limit'] = '';
